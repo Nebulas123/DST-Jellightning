@@ -1,5 +1,5 @@
 # [DST] Jellightning
-Link:[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3194146838)  
+Link: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3194146838)  
 Add the recipe of Volt Goat Chaud-Froid, using live jellyfish instead of volt goat horn.  
 Compatible with the following mods:  
 [Island Adventures](https://steamcommunity.com/sharedfiles/filedetails/?id=1467214795)  
